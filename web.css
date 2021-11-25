@@ -1,0 +1,22 @@
+table, th, td {
+    padding: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+h3{
+    color: rgb(19, 8, 59);
+    padding-left: 200px;
+    font-family: "Trebuchet MS", Tahoma, sans-serif;
+}
+table, th, td {
+    border: 1px black;
+}
+h1 {
+    text-align: center;
+    background-color: rgb(102, 206, 171);
+}
+h2{
+    color: rgb(2, 18, 243);
+    text-align: center;
+    font-family: "Trebuchet MS", Tahoma, sans-serif;
+}
