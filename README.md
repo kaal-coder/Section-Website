@@ -1,6 +1,6 @@
 <h1 align='center'> Section-Website </h1>
 
-### Contains details of a section
+### Contains details of a section. The project was made when I started learning HTML and CSS.
 
 
 ## Built With &#128736;&#65039;
