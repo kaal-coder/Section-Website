@@ -3,7 +3,7 @@
 ### Contains details of a section. The project was made when I started learning HTML and CSS.
 
 
-## Built With &#128736;&#65039;
+## Built with &#128736;&#65039;
 <img src= "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height=40 ></img>
 <img src= "https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height=40 ></img>
 
